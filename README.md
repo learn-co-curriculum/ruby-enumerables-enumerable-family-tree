@@ -84,7 +84,7 @@ efficiently and flexibly. Enjoy the power!
 
 [all?]: https://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-all-3F
 [any?]: https://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-any-3F
-[count]: https://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-collect
+[collect]: https://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-collect
 [count]: https://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-count
 [detect]: https://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-detect
 [find_all]: https://ruby-doc.org/core-2.6.3/Enumerable.html#method-i-find_all
