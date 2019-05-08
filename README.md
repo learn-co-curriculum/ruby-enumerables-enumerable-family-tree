@@ -39,14 +39,6 @@ Instead of merely repeating the documentation, we're going to help you apply
 your understanding to the `select` and `reject` methods, and then we're going
 to give you a list of document resources you should look up and master.
 
-These are the Enumerables you should ***memorize*** and practice heavily.
-They're going to be your friends every day in Ruby-land. There are other
-Enumerables that you might not memorize, but it's pretty common for a developer
-to realize that they're working in the "Character of Enumerable Methods" and
-think, "Hm, maybe there's an Enumerable for that...." When that moment hits,
-the developer comes _back_ to the documentation and look for that "just-right"
-Enumerable.
-
 ## Select / Reject
 
 ```ruby
@@ -62,6 +54,14 @@ Enumerable.
    block for `reject`.
 
 ## Provide a List of Enumerables to Memorize
+
+These are the Enumerables you should ***memorize*** and practice heavily.
+They're going to be your friends every day in Ruby-land. There are other
+Enumerables that you might not memorize, but it's pretty common for a developer
+to realize that they're working in the "Character of Enumerable Methods" and
+think, "Hm, maybe there's an Enumerable for that...." When that moment hits,
+the developer comes _back_ to the documentation and look for that "just-right"
+Enumerable.
 
 * [`all?`][all?]: Everything "tested" by the block returns truthy
 * [`any?`][any?]: Did anything "tested" by the block returns truthy
