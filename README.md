@@ -59,7 +59,7 @@ These are the Enumerables you should ***memorize*** and practice heavily.
 They're going to be your friends every day in Ruby-land. There are other
 Enumerables that you might not memorize, but it's pretty common for a developer
 to realize that they're working in the "Character of Enumerable Methods" and
-think, "Hm, maybe there's an Enumerable for that...." When that moment hits,
+think, "Hmm, maybe there's an Enumerable for that...." When that moment hits,
 the developer comes _back_ to the documentation and look for that "just-right"
 Enumerable.
 
