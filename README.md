@@ -2,12 +2,12 @@
 
 ## Learning Goals
 
-* Use `map` to transform an `Array`
-* Use `reduce` to reduce an `Array` to a value
+* Use `map` to transform an `Array`. 
+* Use `reduce` to reduce an `Array` to a value.
 * Use Ruby documentation to learn more about other variations on `map` and
-  `reduce`
-* Use `select` and `reject` to filter an `Array`
-* Provide a list of Enumerables to memorize
+  `reduce`.
+* Use `select` and `reject` to filter an `Array`.
+* Provide a list of Enumerables to memorize.
 
 ## Introduction
 
@@ -49,7 +49,7 @@ to give you a list of document resources you should look up and master.
 
 1. Map a collection
 2. Only accumulate the elements that make a truthy expression in the block for
-   `select`. 
+   `select`.
 3. Only accumulate the elements that don't make a truthy expression in the
    block for `reject`.
 
@@ -99,6 +99,3 @@ These Enumerables will help you solve most questions about collections. Some of
 the Enumerables in the documentation might look a bit scary or make you wonder
 "When the heck would I ever use that?" But over time, as you become more
 practiced, you'll be amazed to see these methods rush to your aid!
-
-
-
