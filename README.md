@@ -66,10 +66,10 @@ Enumerable.
 
 * [`all?`][all?]: Everything "tested" by the block returns truthy
 * [`any?`][any?]: Did anything "tested" by the block returns truthy
-* [`collect`][collect]: A synonym for `map`
+* [`collect`][collect]: Does the same thing as `map`
 * [`count`][count]: Which elements satisfy the block _or_, without block, how many elements are there?
-* [`detect`][detect]: Which element satisfies the block _first_. Does the same thing as `find`.
-* [`find_all`][find_all]: Which elements satisfy the block?
+* [`find`][detect]: Which element satisfies the block _first_. Does the same thing as `detect`.
+* [`find_all`][find_all]: Which elements satisfy the block? Does the same thing as `select`.
 * [`find_index`][find_index]: What is the index of the first element to satisfy the block?
 * [`max`][max]: What's the highest value?
 * [`max_by`][max_by]: What's the highest value based on some property of the element?
