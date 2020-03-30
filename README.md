@@ -49,9 +49,8 @@ to give you a list of document resources you should look up and master.
 
 1. Map a collection
 2. Only accumulate the elements that make a truthy expression in the block for
-   `select`. Ruby also lets you do this work by calling the method `filter`,
-   which operates the same way.
-2. Only accumulate the elements that don't make a truthy expression in the
+   `select`. 
+3. Only accumulate the elements that don't make a truthy expression in the
    block for `reject`.
 
 ## Provide a List of Enumerables to Memorize
