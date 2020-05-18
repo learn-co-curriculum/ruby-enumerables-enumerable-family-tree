@@ -11,8 +11,10 @@
 
 ## Introduction
 
-Now that you have written `map` and `reduce`, here's the big reveal: Ruby
-_already_ has these methods built into its `Array` data type!
+In addition to `each`, Ruby has a variety of Enumerables we can use for different
+needs. Like `each` and `count`, these are already built into its `Array` data type.
+In this lesson, we'll take a look at a few of them - `map`, `reduce`, `select`, and
+`reject`.
 
 ![Ruby Enumerables](https://curriculum-content.s3.amazonaws.com/ruby-enumerables/enumerables-family-tree/Image_78_RubyMapTree.png)
 
