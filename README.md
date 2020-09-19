@@ -66,9 +66,9 @@ the developer comes _back_ to the documentation and look for that "just-right"
 Enumerable.
 
 * [`all?`][all?]: Everything "tested" by the block returns truthy
-* [`any?`][any?]: Did anything "tested" by the block returns truthy
+* [`any?`][any?]: Did anything "tested" by the block return truthy
 * [`collect`][collect]: Does the same thing as `map`
-* [`count`][count]: Which elements satisfy the block _or_, without block, how many elements are there?
+* [`count`][count]: How many elements satisfy the block _or_, without block, how many elements are there?
 * [`find`][detect]: Which element satisfies the block _first_. Does the same thing as `detect`.
 * [`find_all`][find_all]: Which elements satisfy the block? Does the same thing as `select`.
 * [`find_index`][find_index]: What is the index of the first element to satisfy the block?
